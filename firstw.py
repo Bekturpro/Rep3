@@ -1,3 +1,4 @@
+#Первое
 import csv
 
 filename = "sales.csv"
